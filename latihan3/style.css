@@ -1,0 +1,21 @@
+.kotak {
+    padding: 50px; 
+    width: 100px; 
+    height: 50px; 
+    color: #fff; 
+    margin: 10px; 
+    background-color: #0288d1; 
+    float: left;
+}
+
+#kotak2 {
+    background-color: violet;
+}
+
+#kotak4 {
+    background-color: pink;
+}
+
+#kotak5 {
+    background-color: orange;
+}

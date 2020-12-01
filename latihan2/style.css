@@ -1,0 +1,19 @@
+.kotak {
+    padding: 50px; 
+    width: 100px; 
+    height: 50px; 
+    color: #fff; 
+    margin: 10px; 
+    background: #0288d1; 
+    float: left;
+}
+
+#kotak {
+    padding: 50px; 
+    width: 100px; 
+    height: 50px; 
+    color: #666666;
+    margin: 10px; 
+    background: pink; 
+    float: left;    
+}
